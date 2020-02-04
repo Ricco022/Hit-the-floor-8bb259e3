@@ -35,4 +35,5 @@ if ($rest > 0) {
     $rest = $rest - ($hoeveel1 * 1);
     echo $hoeveel1 . " x 1 euro" . PHP_EOL;
 }
+
 ?>
